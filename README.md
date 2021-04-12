@@ -6,4 +6,4 @@ BUT, if the player rolls a 2, all his CURRENT score gets lost. After that, it's 
 The player can choose to 'Hold', which means that his CURRENT score gets added to his GLOBAL score. After that, it's the next player's turn.
 The first player to reach WINNING score on GLOBAL score wins the game.
 
-This game includes functionalities like designing a web page using HTML and CSS, Document Object Model(DOM) manipulation, immediately invoked function expression(IIFE).
+This game includes functionalities like designing a web page using HTML and CSS, Document Object Model (DOM) manipulation, immediately invoked function expression(IIFE).
